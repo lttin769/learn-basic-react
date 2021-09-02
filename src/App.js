@@ -17,7 +17,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>  Xin chao {name} - {age} - {isMale ? "Male" : "Female"}  </p>
-
+        <p>Tin dep trai day nee</p>
         {/* {isMale && (
           <>
           <p>helo ae</p>
